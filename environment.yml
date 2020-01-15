@@ -1,14 +1,8 @@
 name: base
-channels:
-  - plotly
-  - pytorch
-  - conda-forge
-  - defaults
 dependencies:
-  - numpy=1.16.2=py37h19fb1c0_0
-  - numpy-base=1.16.2=py37hc3f5095_0
-  - numpydoc=0.8.0=py37_0
-  - matplotlib=3.0.3=py37hc8f65d3_0
-  - ipywidgets=7.4.2=py37_0
-  
-prefix: C:\ProgramData\Anaconda3
+  - numpy=1.16.2
+  - numpy-base=1.16.2
+  - numpydoc=0.8.0
+  - matplotlib=3.0.3
+  - ipywidgets=7.4.2
+
