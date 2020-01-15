@@ -312,4 +312,3 @@ dependencies:
     - tensorflow-gpu==1.13.1
     - termcolor==1.1.0
 prefix: C:\ProgramData\Anaconda3
-
